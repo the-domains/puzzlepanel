@@ -12,5 +12,9 @@ color:
     - '#FFFA0E'
 layout_spectrum: 0.3106383
 name: Puzzlepanel
+navigation:
+  - name: Small Business Time Saver App
+    url: www.puzzlepanel.com
+    type: external
 title: Amazing
 description: Works
