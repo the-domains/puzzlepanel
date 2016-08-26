@@ -1,4 +1,3 @@
-layout_spectrum: 0.3106383
 typography_spectrum: 0.4957447
 color:
   lightness: 0.6723405
@@ -11,4 +10,6 @@ color:
     - '#FFFFEB'
     - '#FF92FF'
     - '#FFFA0E'
+layout_spectrum: 0.3106383
 name: Puzzlepanel
+description: Works
